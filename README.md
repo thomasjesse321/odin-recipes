@@ -1,0 +1,1 @@
+This project is a simple recipe website. With the completion of this  website I plan to demonstrate a few skills that I have developed through my learning and practice in The Odin Project. The main skill that I'm hoping to showcase is (moderate) fluency in HTML.
